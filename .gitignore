@@ -8,6 +8,12 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.bash_profile
+airflow.db
+airflow-webserver.pid
+airflow.cfg
+logs/
+webserver_config.py
 build/
 develop-eggs/
 dist/
